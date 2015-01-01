@@ -1,4 +1,4 @@
-seven_languagues_in_seven_weeks
+Seven Languages in Seven Weeks
 ===============================
 
-Assignments for seven languages in seven weeks book
+Self-study Assignments for seven languages in seven weeks book.
